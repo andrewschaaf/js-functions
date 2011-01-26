@@ -1,7 +1,5 @@
 
-#### The Goal
-
-* A set of tested, minification-friendly, self-contained functions.
+A set of tested, minification-friendly, self-contained functions.
 
 #### TODO
 
