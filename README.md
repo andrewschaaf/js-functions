@@ -1,10 +1,6 @@
 
 A set of tested, minification-friendly, self-contained functions.
 
-#### TODO
-
-* Have tests work with all browsers instead of just NodeJS
-
 
 ## msgpack
 
